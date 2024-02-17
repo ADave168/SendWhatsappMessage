@@ -18,5 +18,3 @@ elif choice == 2:
 
 else:
     print("Please enter either 1 or 2 and include the country code on the phone number.")
-# except Exception:
-    # print("There was an error, please try again.")
